@@ -15,4 +15,13 @@ _This is a project_\
 1. Autobots
    1. bumblebee
    2. sideswipe
+   3. optimus prime
+   4. Jazz
+   5. Ratchet
+  
+2. Decepticons
+   1. starscream
+   2. megatron
+   3. Soundwave
+   4. Shockwave
    
