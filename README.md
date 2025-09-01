@@ -8,7 +8,7 @@ _This is a project_\
 
 
 ##links\
-![THIS IS A DUMMY PIC]()
+![THIS IS A DUMMY PIC](https://myoctocat.com/assets/images/base-octocat.svg)
 
 #list
 1. Autobots
@@ -26,7 +26,9 @@ _This is a project_\
   
 H<sub>2</sub>O
 
-X<sup>2<sup/> + y<sup>2</sup>
+X<sup>2<sup/>
+> this is a quote
+...
 
 
 
