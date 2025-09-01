@@ -13,9 +13,6 @@ _This is a project_\
 
 #list
 1. Autobots
-   -bumblebee
-    -Jazz
-     -Ratchet
-      -sideswipe
-       -ironhide
-  
+   1. bumblebee
+   2. sideswipe
+   
