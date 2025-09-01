@@ -26,7 +26,7 @@ _This is a project_\
   
 H<sub>2</sub>O
 
-X<sup>2<sup/>+y<sup>2</sup>
+X<sup>2<sup/> + y<sup>2</sup>
 
 
 
