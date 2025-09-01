@@ -27,7 +27,7 @@ _This is a project_\
 H<sub>2</sub>O
 
 X<sup>2<sup/>
-> this is a quote
+> this is a quote <
 ...
 
 
