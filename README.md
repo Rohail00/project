@@ -24,7 +24,8 @@ _This is a project_\
    3. Soundwave
    4. Shockwave
   
-H<sub>2</sub>O
+H<sub>2</sub>O/
+X<sup>2<sup/>+y<sup>2</sup>
 
 
 
